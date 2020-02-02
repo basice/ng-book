@@ -1,4 +1,4 @@
-# ng-book 2: The Complete Guide to Angular 4 Sample Code
+# ng-book 2: The Complete Guide to Angular 8 Sample Code
 
 ## Organization
 
